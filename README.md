@@ -7,12 +7,14 @@ I hold a Master’s Degree in Computer Science from Western University, where I 
 
 
 About me:
+
 - A Machine Learning Specialist with Master’s in Computer Science and 4+ years of experience developing scalable ML models
 to solve real-world problems and analyzing large datasets to define data-driven objectives with measurable results.
 - Based in Toronto, ON, Canada.
 
 
 ⚡️ Let's Connect!
+
 LinkedIn: https://www.linkedin.com/in/sarehsoltani96/ 
 
 Email: sare.soltani74@gmail.com
