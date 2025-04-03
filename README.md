@@ -5,7 +5,7 @@ I'm Sareh, a passionate Data Scientist and Machine Learning Engineer with over 5
 I hold a Master’s Degree in Computer Science from Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Prior to that, I earned my Bachelor’s Degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.
 
 
-
+---
 About me:
 
 - A Machine Learning Specialist with Master’s in Computer Science and 4+ years of experience developing scalable ML models
