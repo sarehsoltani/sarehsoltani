@@ -11,7 +11,7 @@ About me:
 
 - A Machine Learning Specialist with Master’s in Computer Science and 4+ years of experience developing scalable ML models
 to solve real-world problems and analyzing large datasets to define data-driven objectives with measurable results.
-- Based in Toronto, ON, Canada.
+
 
 ---
 
