@@ -15,8 +15,6 @@ I'm Sareh, a passionate Data Scientist and Machine Learning Engineer with 4+ yea
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarehsoltani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarehsoltani&icon=0&color=1)](https://visitcount.itsvg.in)
