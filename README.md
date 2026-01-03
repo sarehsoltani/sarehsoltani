@@ -1,5 +1,3 @@
-## Welcome to My GitHub Profile!  👋
-
 # 💫 About Me:
 I'm Sareh, a passionate Data Scientist and Machine Learning Engineer with 4+ years of experience developing scalable ML models to solve real-world problems and analyzing large datasets to define data-driven objectives with measurable results. My research interests lie at the intersection of computer vision and natural language processing, with a strong focus on applying machine learning to address complex problems in the healthcare domain, developing impactful solutions that bridge the gap between research and real-world applications.<br><br>I hold a Master’s Degree in Computer Science from Western University, where I developed a weakly supervised anomaly detection model for surveillance videos using a Two-Stream I3D Convolutional Network as my thesis. Prior to that, I earned my Bachelor’s Degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), focusing on real-time tracking systems.<br><br>
 
