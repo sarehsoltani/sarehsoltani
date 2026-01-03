@@ -16,12 +16,6 @@ I'm Sareh, a passionate Data Scientist and Machine Learning Engineer with 4+ yea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=sarehsoltani&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
 ⚡️ Let's Connect!
 
 LinkedIn: https://www.linkedin.com/in/sarehsoltani96/ 
